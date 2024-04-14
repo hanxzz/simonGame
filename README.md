@@ -23,4 +23,4 @@ To play the Simon Game:
 5. Advance to the next level by successfully repeating the sequence.
 6. Continue playing and see how far you can go!
 
-You can chech the demo [here](https://simongamehk.netlify.app)
+You can check the demo [here](https://simongamehk.netlify.app)
